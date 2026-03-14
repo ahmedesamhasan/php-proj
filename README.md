@@ -47,3 +47,4 @@ This version keeps the project simple, but adds the next useful features that ma
 - Empty categories can be deleted, but categories with products are protected.
 - The code is still intentionally lightweight, not a full MVC framework.
 # php-proj
+# php-proj
